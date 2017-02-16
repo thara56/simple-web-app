@@ -9,13 +9,15 @@ import { MainGreetingComponent } from './main-greeting/main-greeting.component';
 import { AppRoutingModule } from './app-routing/app-routing.module';
 import { GalleryComponent } from './gallery/gallery.component';
 import { NavbarComponent } from './navbar/navbar.component';
+import { AboutmeComponent } from './aboutme/aboutme.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MainGreetingComponent,
     GalleryComponent,
-    NavbarComponent
+    NavbarComponent,
+    AboutmeComponent
   ],
   imports: [
     BrowserModule,
