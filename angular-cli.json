@@ -19,7 +19,8 @@
       "prefix": "app",
       "styles": [
         "../node_modules/@angular/material/core/theming/prebuilt/pink-bluegrey.css",
-        "styles.css"
+        "styles.css",
+        "normalize.css"
       ],
       "scripts": [],
       "environments": {
